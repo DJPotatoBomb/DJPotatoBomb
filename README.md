@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DJPotatoBomb
-- 👀 I’m interested in ... Mineccraft
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... nothing rn
-- 📫 How to reach me ...
+- 👀 I’m interested in ... Minecraft
+- 🌱 I’m currently learning ... javascript
+- 💞️ I’m looking to collaborate on ... nothing at the moment
+- 📫 How to reach me ... discord: dj_potato
 
 <!---
 DJPotatoBomb/DJPotatoBomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
